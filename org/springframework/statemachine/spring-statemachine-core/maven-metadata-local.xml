@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.statemachine</groupId>
+  <artifactId>spring-statemachine-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.3.BUILD-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160112012449</lastUpdated>
+  </versioning>
+</metadata>
